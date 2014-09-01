@@ -1,0 +1,7 @@
+name             'apt_cleanup'
+maintainer       'Chris Aumann'
+maintainer_email 'me@chr4.org'
+license          'GNU Public License 3.0'
+description      'Installs/Configures apt_cleanup'
+long_description 'Installs/Configures apt_cleanup'
+version          '0.1.0'
